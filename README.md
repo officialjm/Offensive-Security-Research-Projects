@@ -7,7 +7,9 @@
 </h3>
 
 <p>
-I have created a collection of Offensive Security Research Projects (and resources used) to track my efforts as a Security Researcher / Penetration Tester. The following skills / domains covered in these projects include: `Red Teaming` `Penetration Testing` `Vulnerability Assessments` `Exploit / Software Development`
+I have created a collection of Offensive Security Research Projects (and resources used) to track my efforts as a Security Researcher / Penetration Tester. The following skills / domains covered in these projects include:
+
+`Red Teaming` `Penetration Testing` `Vulnerability Assessments` `Exploit / Software Development`
 </p>
 <br></br>
 
